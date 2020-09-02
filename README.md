@@ -1,6 +1,6 @@
 # Macro_Facial_Expressions_Detection
 
-This Live detector traces the 7 universal facial expressions namely
+This Real-Time Facial Expression model detects the 7 universal facial expressions 
 
 Angry\
 Disgust\
